@@ -19,13 +19,13 @@ Let me know if you're using it and how! Just send an e-mail with a few details o
 - Download [rubric version 2016](rubric2016.pdf)
 - Download [rubric version 2014](rubric2014.pdf)
 
-## Designing a rubric for feedback on code quality in programming courses
+## Publication: Designing a rubric for feedback on code quality in programming courses
 
 Published at Koli Calling 2016. [Proceedings](https://dl.acm.org/citation.cfm?id=2999555).
 
 > "We investigate how to create a rubric that can be used to give feedback on code quality to students in introductory programming courses. Based on an existing model of code quality and a set of preliminary design rules, we constructed a rubric and put it through several design iterations. Each iteration focused on different aspects of the rubric, and solutions to various programming assignments were used to evaluate. The rubric appears to be complete for the assignments it was tested on. We articulate additional design aspects that can be used when drafting new feedback rubrics for programming courses."
 
-## Towards an empirically validated model for assessment of code quality
+## Publication: Towards an empirically validated model for assessment of code quality
 
 Published at Koli Calling 2014. [Proceedings](https://dl.acm.org/citation.cfm?id=2674702).
 
