@@ -1,0 +1,24 @@
+div.gallery img
+{
+    display:inline;
+    margin-left:0.25em;
+    margin-right:0.25em;
+    max-width:27%;
+    border-radius:0;
+}
+
+.page-title
+{
+    margin-bottom:1em;
+}
+
+.page-logo
+{
+	display:inline;
+    max-width:3rem;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin-top:1.5rem;
+    margin-bottom: 1.5rem;
+}
