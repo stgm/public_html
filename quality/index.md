@@ -6,7 +6,7 @@ nav: main
 
 # Code quality
 
-Code quality is a popular topic among software engineers. Reflective literature about this very subject is often recommended between practitioners (for examples, see [Goodreads](https://www.goodreads.com/shelf/show/programming)). In this line of research, I analyse how teachers provide feedback on code quality to university students and how this aligns with norms in use among professionals.
+Code quality is a popular topic among software engineers. Reflective literature about this very subject is often recommended between practitioners (for examples see [Goodreads](https://www.goodreads.com/shelf/show/programming)). In this line of research, I analyse how teachers provide feedback on code quality to university students and how this aligns with norms in use among professionals.
 
 ## Rubric
 
