@@ -14,7 +14,7 @@ Below, you'll find the relevant publications that explain the design and develop
 
 We provide a rubric that is fairly comprehensive, but because of that, also harder to learn to use. A student might learn about code quality by taking one of the criteria (e.g., "comments") and study the different levels that may be distinguished. Of course, interpretation is an important part of assessing code quality, and in this form, the rubric is *not* useful for grading (or at least, should not be).
 
-Let me know if you're using it and how! Just send an e-mail with a few details of how you teach (or learn).
+Let me know if you're using it and how! Just send an e-mail with a few details of how you teach (or learn). The rubric is provided under a Creative Commons BY-SA 4.0 license, which means that you must attribute and share any modifications under the same licence.
 
 - Download [rubric version 2016](rubric2016.pdf)
 - Download [rubric version 2014](rubric2014.pdf)
