@@ -19,14 +19,14 @@ Let me know if you're using it and how! Just send an e-mail with a few details o
 - Download [rubric version 2016](rubric2016.pdf)
 - Download [rubric version 2014](rubric2014.pdf)
 
-## Publication: Designing a rubric for feedback on code quality in programming courses
+## Paper: Designing a rubric for feedback on code quality in programming courses
 
-Published at Koli Calling 2016. [Proceedings](https://dl.acm.org/citation.cfm?id=2999555).
+Presented at Koli Calling 2016. [Proceedings](https://dl.acm.org/citation.cfm?id=2999555). [Pre-print](stegeman-quality-2016.pdf).
 
 > "We investigate how to create a rubric that can be used to give feedback on code quality to students in introductory programming courses. Based on an existing model of code quality and a set of preliminary design rules, we constructed a rubric and put it through several design iterations. Each iteration focused on different aspects of the rubric, and solutions to various programming assignments were used to evaluate. The rubric appears to be complete for the assignments it was tested on. We articulate additional design aspects that can be used when drafting new feedback rubrics for programming courses."
 
-## Publication: Towards an empirically validated model for assessment of code quality
+## Paper: Towards an empirically validated model for assessment of code quality
 
-Published at Koli Calling 2014. [Proceedings](https://dl.acm.org/citation.cfm?id=2674702).
+Presented at Koli Calling 2014. [Proceedings](https://dl.acm.org/citation.cfm?id=2674702). [Pre-print](stegeman-quality-2014.pdf).
 
 > "We present a pilot study into developing a model of feedback on code quality in introductory programming courses. To devise such a model, we analyzed professional standards of code quality embedded in three popular software engineering handbooks and found 401 suggestions that we categorized into twenty topics. We recorded three instructors who performed a think-aloud judgment of student-submitted programs, and we interviewed them on the topics from the books, leading to 178 statements about code quality. The statements from the instructor interviews allowed us to generate a set of topics relevant to their practice of giving feedback, which we used to create criteria for the model. We used the instructor statements as well as the book suggestions to distinguish three levels of achievement for each criterion. This resulted in a total of 9 criteria for code quality. The interviews with the instructors generated a..."
