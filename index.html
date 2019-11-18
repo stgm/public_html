@@ -5,8 +5,9 @@ title: Welcome
 
 <h1>Topics</h1>
 
-Current topics of interest!
+<p>Current topics of interest!</p>
 
+<p>
 {% assign pages_list = site.pages | where:"nav","main" | sort:"order" %}
 {% for node in pages_list %}
 {% if node.title != null %}
@@ -15,3 +16,4 @@ Current topics of interest!
   {% endif %}
 {% endif %}
 {% endfor %}
+</p>
