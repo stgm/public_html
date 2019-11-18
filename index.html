@@ -3,17 +3,10 @@ layout: page
 title: Welcome
 ---
 
-<h1>Topics</h1>
+<h1>Hi</h1>
 
-<p>Current topics of interest!</p>
+<p>I'm Martijn Stegeman. My ususal occupation is teaching programming to students who have never programmed before (and then some more). Aside from teaching, I sometimes find time to do research projects with (on!) my students, allowing me to precisely describe teaching practices, hopefully finding leads on how to do it better than before.</p>
 
-<p>
-{% assign pages_list = site.pages | where:"nav","main" | sort:"order" %}
-{% for node in pages_list %}
-{% if node.title != null %}
-  {% if node.layout == "page" %}
-    <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a>
-  {% endif %}
-{% endif %}
-{% endfor %}
-</p>
+<p>My working environment is the University of Amsterdam, and especially the <a href="https://www.mprog.nl/">Programming Lab</a>. If you're a teacher and you'd like a tour of our labs to better understand how we teach students, feel free to ask!</p>
+
+<p>Previously, I have advised students during their final research projects for a bachelor's program. If you're a student who is keen on charting how we teaching (and maybe should not teach) programming, do get in touch!</p>
