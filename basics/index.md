@@ -6,7 +6,7 @@ nav: main
 
 # Programming basics
 
-To allow students practice with core programming concepts, we developed a practice book that may be used alongside introductory programming courses.
+To allow students practice with core programming concepts, we developed a practice book that may be used alongside introductory programming courses. Our current insight is that students appreciate this form of deliberate practice, and that it allows us teachers to better find students who struggle with the course materials. This is especially fostered by the system of regular check-ups in the form of mini-tests which encourage (and require) students to show mastery of the materials.
 
 ## Book
 
@@ -22,8 +22,8 @@ The first version of the book, in Dutch, is now available on GitHub. It will be 
 
 Potentially forthcoming are:
 
+- Sample tests that we do not use anymore
 - Our Flask-based system to book test appointments
-- Sample tests (which we do not use anymore)
 - Software for validation
 
 Let me know if you're interested to work with us on these and other tools!
