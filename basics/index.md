@@ -6,7 +6,7 @@ nav: main
 
 # Programming basics
 
-![photo of the inside of a box containing a couple of prints of the book, bundled with thin rubber bands](books.jpg){: style="float: right; max-width: 10em;"}
+![photo of the inside of a box containing a couple of prints of the book, bundled with thin rubber bands](books.jpg){: style="float: right; max-width: 10em; margin-left:2em"}
 
 To allow students practice with core programming concepts, we developed a practice book that may be used alongside introductory programming courses. Our current insight is that students appreciate this form of deliberate practice, and that it allows us teachers to better find students who struggle with the course materials. This is especially fostered by the system of regular check-ups in the form of mini-tests which encourage (and require) students to show mastery of the materials.
 
