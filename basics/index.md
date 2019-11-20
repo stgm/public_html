@@ -15,7 +15,8 @@ To allow students practice with core programming concepts, we developed a practi
 The first version of the book, in Dutch, is now available on GitHub. It will be partially translated over the next few days.
 
 - Downloads
-    - [Current version of the book (Dutch)](book.pdf)
+    - [Current version of the book (Dutch)](book_nl.pdf)
+    - [Current version of the book (English, very partial translation)](book_en.pdf)
 - Sources
     - [GitHub: Programming Basics organization](https://github.com/prgbas)
     - [Programming Basics book TeX sources](https://github.com/prgbas/book) (Creative Commons)
