@@ -19,7 +19,7 @@ The first version of the book, in Dutch, is now available on GitHub. It will be 
     - [Current version of the book (English, very partial translation)](book_en.pdf)
 - Sources
     - [GitHub: Programming Basics organization](https://github.com/prgbas)
-    - [Programming Basics book TeX sources](https://github.com/prgbas/book) (Creative Commons)
+    - [Programming Basics book LaTeX sources](https://github.com/prgbas/book) (Creative Commons)
 
 ## Forthcoming
 
