@@ -25,6 +25,12 @@ Presented at Koli Calling 2016. [Proceedings](https://dl.acm.org/citation.cfm?id
 
 > "We investigate how to create a rubric that can be used to give feedback on code quality to students in introductory programming courses. Based on an existing model of code quality and a set of preliminary design rules, we constructed a rubric and put it through several design iterations. Each iteration focused on different aspects of the rubric, and solutions to various programming assignments were used to evaluate. The rubric appears to be complete for the assignments it was tested on. We articulate additional design aspects that can be used when drafting new feedback rubrics for programming courses."
 
+## Talk: Code quality in your first programming course
+
+Presented at the Netherlands conference on computer science education 2015.
+
+> "Code quality is a notion from the field of software engineering. Many books that are recommended between professional programmers cover this very subject. In this session, we present and discuss the ways we currently provide feedback to students on code quality, how we might do better, and whether it may be useful to cover the concepts of code quality in the first programming course at university. We also present a code quality rubric that students may use in lieu of waiting for teachers' feedback."
+
 ## Paper: Towards an empirically validated model for assessment of code quality
 
 Presented at Koli Calling 2014. [Proceedings](https://dl.acm.org/citation.cfm?id=2674702). [Pre-print](stegeman-quality-2014.pdf).
