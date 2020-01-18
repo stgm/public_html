@@ -16,7 +16,7 @@ The first version of the book, in Dutch and partially in English, is now availab
 
 - Downloads
     - [Current version of the book (Dutch)](book_nl.pdf) (380KB)
-    - [Current version of the book (English, first five chapters have been translated)](book_en.pdf) (380KB)
+    - [Current version of the book (English)](book_en.pdf) (381KB)
 - Sources
     - [GitHub: Programming Basics organization](https://github.com/prgbas)
     - [Programming Basics book LaTeX sources](https://github.com/prgbas/book) (Creative Commons)
