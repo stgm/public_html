@@ -12,7 +12,7 @@ To allow students practice with core programming concepts, we developed a practi
 
 ## Book
 
-The first version of the book, in Dutch and partially in English, is now available on GitHub. Further translation will be done over the next few weeks.
+The first version of the book, in Dutch and English, is now available on GitHub. Further translation will be done over the next few weeks.
 
 - Downloads
     - [Current version of the book (Dutch)](book_nl.pdf) (380KB)
