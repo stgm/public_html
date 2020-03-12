@@ -20,7 +20,7 @@ We decided to put all students of our programming-related courses together. Thes
 
 ## One big channel per course
 
-To facilitate quick and low-bar discussions about our courses, we created channels for each group of students.
+To facilitate quick and low-bar discussions about our courses, we created channels for each course.
 
 - Web programming (multiple groups of students doing roughly the same course)
 - Parttime programming (introductory courses in parttime)
