@@ -16,7 +16,7 @@ However, Slack also allows person-to-person chats and even audio calls with scre
 
 ## One Slack for our programming courses
 
-We decided to put all students of our programming-related courses together. These are often students that are currently in a fulltime programming course, or they come from different parts of the university. In general, we would recommend creating a Slack account for each study programme, or for each cohort of students.
+We decided to put all students of our programming-related courses together. These are often students that are currently in a fulltime programming course, or they come from different parts of the university. **In general**, we would recommend creating a Slack account for each study programme, or for each cohort of students.
 
 ## One big channel per course
 
@@ -27,6 +27,9 @@ To facilitate quick and low-bar discussions about our courses, we created channe
 - Fulltime programming (introductory courses in fulltime)
 - Scientific programming (an introductory course with a different approach)
 - Collective intelligence (an advanced course for a different audience)
+
+![]({{ site.baseurl }}/assets/posts/channels.png)
+
 
 ## Optionally, channels for groups of students
 
