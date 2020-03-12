@@ -4,7 +4,7 @@ layout: post
 
 **Martijn Stegeman, University of Amsterdam**
 
-Our goal is to provide students an environment where they can help each other. This is why traditionally, in our [Minor Programmeren](https://www.mprog.nl/), we require attendance for substantial hours, up until 40 hours a week.
+Our goal is to provide students an environment where they can help each other. This is why traditionally, in our [Minor Programmeren](https://www.mprog.nl/) programming courses, we require attendance for substantial hours, up until 40 hours a week.
 
 Because we currently don't want students to be [on campus](https://www.uva.nl/), we need other solutions. To allow students to help each other out in times of frustration, or simply to resolve a bug, we provide Slack. Here is the why and how.
 
