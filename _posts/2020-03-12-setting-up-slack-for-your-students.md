@@ -12,7 +12,7 @@ Because we currently don't want students to be [on campus](https://www.uva.nl/),
 
 We want to provide an easy entry for students who haven't used online communications much. In Slack, which is mostly text-based, it's easy to join and lurk around a little. You don't have to participate right away.
 
-However, Slack also allows person-to-person chats and even audio calls with screen sharing. Simply click another user's name and press "Call". Person-to-person chat can't be disabled, which is why we have most staff **not** join the Slack account. We want to avoid situations where staff is seen as "permanently available". (However, we will be using an online planning tool via which students can book a 1-on-1 video chat with a teaching assistant.)
+However, Slack also allows person-to-person chats and even audio calls with screen sharing. Simply click another user's name and press "Call". Person-to-person chat can't be disabled, which is why we have most staff **not** join the Slack account. We want to avoid situations where staff is seen as "permanently available". (However, we will be using an online planning tool via which students can book a 1-on-1 video chat with a teaching assistant.) 
 
 ## One Slack for our programming courses
 
