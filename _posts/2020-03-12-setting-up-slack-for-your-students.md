@@ -36,11 +36,11 @@ In Collective Intelligence, students will be teaming up in groups of three. Thes
 
 - We keep the `general` channel for very general announcements; for example about the technical infrastructure that's shared by all courses. We disable posting to `general` by anyone other than admins. (See "Manage posting permissions" in the channel options.)
 
-    ![](/assets/posts/general.png)
+    ![]({{ site.baseurl }}/assets/posts/general.png)
 
 - We disable the creation of new channels. If students want, they can still create multi-person chats. However, we ask them to talk about the course in the public channels as much as possible.
 
-    ![](/assets/posts/permissions.png)
+    ![]({{ site.baseurl }}/assets/posts/permissions.png)
 
 - We restrict all channel management options to admins only.
 
