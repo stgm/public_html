@@ -2,7 +2,7 @@
 layout: post
 ---
 
-# Setting up Slack for your students<br><small>Martijn Stegeman, University of Amsterdam</small>
+**Martijn Stegeman, University of Amsterdam**
 
 Our goal is to provide students an environment where they can help each other. This is why traditionally, in our [Minor Programmeren](https://www.mprog.nl/), we require attendance for substantial hours, up until 40 hours a week.
 
