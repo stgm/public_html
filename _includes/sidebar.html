@@ -40,6 +40,12 @@
       {% endfor %}
       <a class="sidebar-nav-item" href="mailto:martijn@stgm.nl">Send an e-mail</a>
     </nav>
+    
+    <nav class="sidebar-nav">
+      {% for post in site.posts %}
+          <a href="{{ post.url }}">{{ post.title }}</a>
+      {% endfor %}
+    </nav>
 
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
   </div>
