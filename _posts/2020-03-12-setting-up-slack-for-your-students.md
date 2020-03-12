@@ -38,11 +38,9 @@ In Collective Intelligence, students will be teaming up in groups of three. Thes
 
     ![]({{ site.baseurl }}/assets/posts/general.png)
 
-- We disable the creation of new channels. If students want, they can still create multi-person chats. However, we ask them to talk about the course in the public channels as much as possible.
+- We restrict all channel management options to admins only., including the creation of new channels. If students want, they can still create multi-person chats. However, we ask them to talk about the course in the public channels as much as possible. 
 
     ![]({{ site.baseurl }}/assets/posts/permissions.png)
-
-- We restrict all channel management options to admins only.
 
 ## Feedback
 
