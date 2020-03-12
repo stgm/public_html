@@ -14,7 +14,7 @@ We want to provide an easy entry for students who haven't used online communicat
 
 However, Slack also allows person-to-person chats and even audio calls with screen sharing. Simply click another user's name and press "Call". Person-to-person chat can't be disabled, which is why we don't have most staff join the Slack account. We want to avoid situations where staff is seen as "permanently available".
 
-## One Slack for all programming courses
+## One Slack for our programming courses
 
 We decided to put all students of our programming-related courses together. These are often students that are currently in a fulltime programming course, or they come from different parts of the university. In general, we would recommend creating a Slack account for each study programme, or for each cohort of students.
 
