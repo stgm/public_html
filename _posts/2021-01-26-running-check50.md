@@ -48,7 +48,7 @@ Let's run it by typing the slug and adding the flag `-l` (lowercase letter). Thi
     hello.py
     You are currently in: ~/dev, did you perhaps intend another directory?
 
-Again, check50 is complaining. This error is given because the check is programmed to work on the file `hello.c`. Check50 always runs checks on the files that are in the current directory! So if you, or your students, want to check a program, they have to `cd` into that directory.
+Again, check50 is complaining, this time because a file called `hello.py` is expected to be present. Check50 always runs checks on the files that are in the *current directory*! So if you, or your students, want to check a program, they have to `cd` into that directory.
 
 But that's OK! Lets' create an empty file called `hello.py`. Let's see what `check50` says now:
 
@@ -96,11 +96,21 @@ As you can see, there are three checks:
 
 - `exists()`, which does nothing more than verify the presence of the correct source files used in the remainder of the checks
 
-- `veronica()`, which (strangely) checks if the program works correctly when fed the name "Emma"
+- `veronica()`, which checks if the program works correctly when fed the name "Emma"
 
 - `brian()`, which checks if the program works correctly when fed the name "Rodrigo"
 
-The latter check is a simple measure to ensure that the program isn't hardcoded towards the name "Emma". Of course, it could be hardcoded for both names and pass the check:
+Never mind those function names!
+
+From the example you may notice a few things:
+
+- There are dependencies between checks. The second and third check specify `exists` as a precondition.
+
+- The `"""docstrings"""` atop each function are used as check descriptions when running `check50`.
+
+- The check specifies a kind of "chain of events", where expected input and output are specified, as well as the expectation of a clean exit.
+
+Incidentally, the third check is fundamentally the same as the second one. It is a simple measure to ensure that the program isn't hardcoded towards the name "Emma". Of course, student code could be hardcoded in the following way and still pass the check:
 
     name = input("Name: ")
     if name == "Emma":
@@ -108,7 +118,7 @@ The latter check is a simple measure to ensure that the program isn't hardcoded 
     else:
         print("Hello, Rodrigo!")
 
-Note that you may want to write better checks to encourage students to write better code :-) But that's something that can develop over the years!
+So you may want to write better checks to encourage students to write better code :-) But that's something that can develop over the years!
 
 
 ## Step 4. Creating your own checks repo
