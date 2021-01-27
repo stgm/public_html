@@ -42,6 +42,8 @@ For now, we'll try to run the check without creating that program. As it happens
 
 Let's run it by typing the slug and adding the flag `-l` (lowercase letter). This ensures that the check is run on your own computer instead of Harvard's cloud infrastructure.
 
+> This also means that check50 is only critically dependent on two things: the `pip` infrastructure and the availability of a GitHub repository with checks. So anyone can use it at any time.
+
     $ check50 cs50/problems/2020/fall/sentimental/hello -l
     Connecting......
     You seem to be missing these required files:
